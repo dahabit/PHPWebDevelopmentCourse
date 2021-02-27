@@ -1,0 +1,6 @@
+#SWITCH mod_rewrite ON
+Options +FollowSymLinks
+RewriteEngine on
+#OUR ABOVE CODE
+
+RewriteRule ^(.*)/\.html$ course_detials.php?course_id=$1

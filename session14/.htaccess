@@ -1,0 +1,3 @@
+﻿RewriteEngine On
+RewriteRule ^cats/([0-9]+)\.html$ view_courses.php?cat_id=$1
+RewriteRule ^course/([0-9]+)\.html$ course_detials.php?course_id=$1

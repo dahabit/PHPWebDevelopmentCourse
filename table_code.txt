@@ -1,0 +1,7 @@
+CREATE TABLE `guestbook`.`gbook` (
+`id` INT( 11 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`name` VARCHAR( 50 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL ,
+`email` VARCHAR( 100 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL ,
+`message` TEXT CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL ,
+`active` TINYINT( 1 ) NOT NULL DEFAULT '0'
+) ENGINE = MYISAM 

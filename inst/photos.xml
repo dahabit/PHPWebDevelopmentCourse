@@ -1,0 +1,483 @@
+<gallery
+base = ""
+background = "#0C9105"
+banner = "#0C9105"
+text = "#FFFFFF"
+link = "#FFFFFF"
+alink = "#FF0000"
+vlink = "#FFFFFF"
+date = "">
+	<sitename>Valley OF Palm Trees Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#0C9105"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#0C9105" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#0C9105" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "PICT0084.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0084.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[ᇘࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ꍨࢎࢍĈЈķ]]></meta>
+	<meta name = "copyright"><![CDATA[ᇘࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ᇘࢌࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0092.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0092.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[㋈Ͻࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ᵐϽꖐ࢏āЈ炨ࠪ橸࢐几˔]]></meta>
+	<meta name = "copyright"><![CDATA[㋈Ͻࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[㋈Ͻࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0133.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0133.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[뒰ࢍࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[猸࢏默࢐ĈЈϽ゘࢏ꣀ࢑ﴒ￿༰ࢌЀČЌ᭠ࢎ鲰࢐轐࢏ﴒ￿]]></meta>
+	<meta name = "copyright"><![CDATA[뒰ࢍࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[뒰ࢍࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0158.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0158.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[蹈ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[⻰ࢎ轠࢐ĺ̈Ì]]></meta>
+	<meta name = "copyright"><![CDATA[蹈ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[蹈ϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0222.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0222.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[㧸࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[䔘࢏缀ϼŶ̌Berlin Sans FB]]></meta>
+	<meta name = "copyright"><![CDATA[㧸࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[㧸࠻ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0235.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0235.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[䓰࢑ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[㫐ࡅ奠ϼīЈ瑮䍰牎䍰ˑĭЌ]]></meta>
+	<meta name = "copyright"><![CDATA[䓰࢑ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[䓰࢑ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0236.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0236.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[ꠐ࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[베ࢎ쯨࢑Ŗ̌ķ]]></meta>
+	<meta name = "copyright"><![CDATA[ꠐ࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ꠐ࢐ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0237.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0237.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[焸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ꀨϽ냸࢐Ŵ̈瑮䍰牎䍰Ŷ̈ꨠ࢐橸࢐几˔]]></meta>
+	<meta name = "copyright"><![CDATA[焸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[焸࢐ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0238.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0238.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[ⲰϽࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[諨࢒���ࢍřЈﲘϯ퍰Ϫ菱Ϡﷶ￿氰࢏]]></meta>
+	<meta name = "copyright"><![CDATA[ⲰϽࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ⲰϽࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0239.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0239.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[ꄸϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ࢋꎈࢎŌ̈䢠6ǁ䢠6ӤࠫҚ]]></meta>
+	<meta name = "copyright"><![CDATA[ꄸϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ꄸϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0252.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0252.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[⠰࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[���ࢍ티࡛ĵ̌鴀࢐ǽ]]></meta>
+	<meta name = "copyright"><![CDATA[⠰࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[⠰࠻ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0253.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0253.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[閸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ࢍ䵸࢏ĦАࡿ]]></meta>
+	<meta name = "copyright"><![CDATA[閸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[閸࢐ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0328.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0328.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[㔠Ͻࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[뱸ࢎ፰࢐ĶЌੰϽǽ]]></meta>
+	<meta name = "copyright"><![CDATA[㔠Ͻࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[㔠Ͻࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0329.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0329.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ϼ胘ϼǉД灨࢏á]]></meta>
+	<meta name = "copyright"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0333.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0333.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[���ࢍࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[썀ϼ着ϽſЌ런࢐䘥䱉䥅䙎╏]]></meta>
+	<meta name = "copyright"><![CDATA[���ࢍࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[���ࢍࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0340.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0340.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[㻰ࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[묈࢐铐ࡧƬЈCopyright 1,1999$ƳЈ䱐࠻]]></meta>
+	<meta name = "copyright"><![CDATA[㻰ࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[㻰ࢌࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0341.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0341.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[㣸࢐퇨ࢍļЈ퓜ī뙸ࢎľЈ퓜ī뙸ࢎ=ĀЈ]]></meta>
+	<meta name = "copyright"><![CDATA[ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0342.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0342.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[绸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ⵀ࢏쌰ϽƆ̈퓜īꧠǂƈ̌ķ]]></meta>
+	<meta name = "copyright"><![CDATA[绸࢐ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[绸࢐ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0343.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0343.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[鼠ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[뭸࢑㶠࢐ĉ̌움ϼ]]></meta>
+	<meta name = "copyright"><![CDATA[鼠ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[鼠ϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0344.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0344.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[ᝰࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[㔠࢐瑸ϽdŸ̈곤Ĩ곐Ĩ觠Ĩ鎴϶俰ϼ]]></meta>
+	<meta name = "copyright"><![CDATA[ᝰࢌࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ᝰࢌࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0345.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0345.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[ꌰϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[࢑ࢋǳЈķ]]></meta>
+	<meta name = "copyright"><![CDATA[ꌰϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[ꌰϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0347.jpg"
+width = "350"
+height = "262"
+thumbpath = "PICT0347.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[┨࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[ࢋ앸ϽſА]]></meta>
+	<meta name = "copyright"><![CDATA[┨࠻ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[┨࠻ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0351.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0351.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[偨࢓ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[Ṹ࠻ňࢌĳЌẘ࠻ẘ࠻﷥￿]]></meta>
+	<meta name = "copyright"><![CDATA[偨࢓ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[偨࢓ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0352.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0352.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[࢑뒈ࢎĿ̌]]></meta>
+	<meta name = "copyright"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[࢏ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0353.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0353.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[຀ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[䳨࢑᭨ࢎǖЌ黈ࢎ]]></meta>
+	<meta name = "copyright"><![CDATA[຀ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[຀ࢎࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0357.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0357.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[࢑ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[蹈ϼ佀࢓Ŀ̌]]></meta>
+	<meta name = "copyright"><![CDATA[࢑ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[࢑ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "PICT0363.jpg"
+width = "262"
+height = "350"
+thumbpath = "PICT0363.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[獐࢒ࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[⸘Ͻ࢒ŢЌ敐࢑d]]></meta>
+	<meta name = "copyright"><![CDATA[獐࢒ࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[獐࢒ࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "ROYAL PALM6.jpg"
+width = "261"
+height = "350"
+thumbpath = "ROYAL PALM6.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[閨࢐䷀࢐ƩЌAl-Mujahed Classicr]]></meta>
+	<meta name = "description"><![CDATA[⨸࢑⑈ϼą̈퓜ī뙸ࢎć̈ķ]]></meta>
+	<meta name = "copyright"><![CDATA[ደ࢏ࡰࢎżЎ楄污杯䌯汯牯畃敢匯]]></meta>
+	<meta name = "credits"><![CDATA[棘ϼﯰ࢒ňЈ퓜īꧠǂŊЈī䣴ϼ]]></meta>
+</image>
+
+
+<image
+path = "Washingtonia Rubusta.jpg"
+width = "350"
+height = "262"
+thumbpath = "Washingtonia Rubusta.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[ꄘϼ幀ࡨ#ĩЌ鵘Ͻ٘ࢌ]]></meta>
+	<meta name = "description"><![CDATA[࢒抐ࢎŝ̌ķ]]></meta>
+	<meta name = "copyright"><![CDATA[獠࢐좨࢏ƿ̈曘ϼ㔺〹㈲䘸㜱㔸䐸ㅂ㠱〶㡂䉁䔱ㄴㄱ䉆7.jpg]]></meta>
+	<meta name = "credits"><![CDATA[ϼ꽐ϽżЎ楄污杯䌯汯牯畃敢匯]]></meta>
+</image>
+
+
+<image
+path = "defualt.gif.jpg"
+width = "350"
+height = "350"
+thumbpath = "defualt.gif.jpg"
+thumbwidth = "75"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[꩸࢑全࢐ƼД桰ࠪ]]></meta>
+	<meta name = "description"><![CDATA[䫠࢏ୀࢎƯЌቸࢌ辠ϼ鋀࢐ቸࢌﴓ￿]]></meta>
+	<meta name = "copyright"><![CDATA[࢑ನ࢐ȄOЌ벰࢒쾰Ͻ敳愀楬湧晟汩l污杩彮敬瑦愀楬湧牟杩瑨愀楬湧损湥整r污杩彮牰灯牯楴湯污愀楬湧瑟灯愀楬湧扟瑯潴m牦浡彥潮敮昀慲敭扟癥汥昀慲敭牟捥慴杮敬瀀慬散损汯浵n汰捡彥潲w汰捡彥景獦牣敥n桴獩牟獥畯捲彥摩瘀畃敢楓敤瘀慒楤坯摩桴瘀摅瑩楗瑤h䱶扡楗瑤h䡶硥楆汥坤摩桴]]></meta>
+	<meta name = "credits"><![CDATA[敠Ͻꦠ࢐ǉЌﯠǂઐࢌﯠǂﷃ￿]]></meta>
+</image>
+
+
+<image
+path = "home.jpg"
+width = "350"
+height = "262"
+thumbpath = "home.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[뙈ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[癈࢏㎨࢒ƋЊ䁰࢐\apache\www\vally\gallery]]></meta>
+	<meta name = "copyright"><![CDATA[뙈ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[뙈ࢎࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "royal palm 3.jpg"
+width = "350"
+height = "262"
+thumbpath = "royal palm 3.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "title"><![CDATA[⾐ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[췠ࢎ됸ࢎĭ̈瑮䍰牎䍰į̈퓜ī뙸ࢎı̈퓜īꧠǂĳ̈瑮䍰牎䍰ĵ̌鞘࢏ǽ]]></meta>
+	<meta name = "copyright"><![CDATA[⾐ϼࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[⾐ϼࠀࠫ˗瑤来]]></meta>
+</image>
+
+
+<image
+path = "royal palm101.jpg"
+width = "262"
+height = "350"
+thumbpath = "royal palm101.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "title"><![CDATA[歐ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "description"><![CDATA[儸ࡩಘ࢏ć̈瑮䍰牎䍰ĉ̌움ϼ]]></meta>
+	<meta name = "copyright"><![CDATA[歐ࢎࠀࠫ˗瑤来]]></meta>
+	<meta name = "credits"><![CDATA[歐ࢎࠀࠫ˗瑤来]]></meta>
+</image>
+
+</images>
+</gallery>

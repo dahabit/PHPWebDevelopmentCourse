@@ -1,0 +1,269 @@
+BODY {
+background-image: url(images/bg.gif);
+background-color: #f5f5f5;
+	font-family: Tahoma,Arial,"Times New Roman", sans-serif;
+	font-size:12 px ; 
+	text-align: center;
+	direction: rtl;
+ 	margin-top: 10px;
+
+
+ SCROLLBAR-FACE-COLOR: #df3701;
+SCROLLBAR-HIGHLIGHT-Color: #FFFFFF;
+SCROLLBAR-SHADOW-COLOR: #FFFFFF;
+SCROLLBAR-ARROW-COLOR: #000000;
+SCROLLBAR-BASE-COLOR: #000000;
+SCROLLBAR-3D-LIGHT-COLOR: #000000;
+
+
+
+}
+
+A {
+
+	color: #0000CD;
+	font-size: 12 px;
+	text-decoration: underline;
+	font-family: Tahoma,Arial, Helvetica, sans-serif;
+	font: bold;
+}
+
+A:HOVER {
+
+	color: Red;	
+	
+
+}
+
+
+
+
+#copy{
+	page: center;
+font-size: 13px;
+	color: #ffffff;
+width:350px;
+}
+#copy1{
+	
+font-size: 13px;
+	color: #ffffff;
+
+
+}
+
+#mainarea{
+	width: 180px;
+	text-align: center;
+	vertical-align: top;
+	height: 100%;
+	border: 1px;
+	border-style: dotted;
+	border-color:#F86739;
+	background-color: #ffffff;
+	padding-top:10px;
+	
+
+}
+
+#cellall{
+
+	border: 1px;
+
+	border-style: dotted;
+
+	border-color:#8c6cff;
+
+	background-color: #FfffFF;
+
+		text-align: center;
+
+	color: #00008B;
+
+	font: bold;
+
+	font-family: Tahoma;
+
+	font-size: 12px;
+
+}
+
+#arttext{
+
+
+
+text-align: right;
+
+	color: #00008B;
+
+		font-family: Tahoma;
+
+	font-size: 17px;
+
+
+
+
+
+}
+
+
+#catstbl{
+
+	
+
+	background-color: #FfffFF;
+
+		text-align: center;
+		font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+
+}
+
+
+
+#cellcatstbl{
+			font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+
+
+	background-color: #ECECEC;
+	text-align: center;
+}
+
+#arttitle{
+	text-align: center;
+	color: #00008B;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 15px;
+}
+#artbody{
+	text-align: justify;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 15px;
+}
+
+#artmore{
+	text-align: left;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 11px;
+}
+
+#bordertbl{
+	border: 2px;
+	border-style: solid;
+	border-color:Gray;
+	background-color: #FfffFF;
+
+	background-color: White;
+	
+}
+
+#det_body{
+	width: 500px;
+text-align: center;
+	
+}
+#error{
+	text-align: center;
+	background:#DFE9F9;
+	color: Red;
+	font-size: 16px;
+	font-style: italic;
+	font-family: Tahoma;
+}
+
+#cellall{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+		text-align: center;
+	color: #00008B;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 12px;
+}
+
+#bookstbl{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+		text-align: center;
+}
+
+#arttext{
+
+text-align: right;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 17px;
+
+
+}
+#arttext{
+
+	text-align: justify;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 15px;
+}
+#artpager{
+
+	text-align:center;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 15px;
+}
+
+#menuadmin{
+
+border: 0px;
+	
+	background-color: #ECECEC;
+		text-align: center;
+	color: #00008B;
+	font-family: Tahoma;
+	font-size: 15px;
+
+}
+#menuadminh{
+
+border: 0px;
+	
+	background-color: #C6C6C6;
+		text-align: center;
+	color: #00008B;
+	font-family: Tahoma;
+	font-size: 17px;
+
+}
+#login{
+
+border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+		text-align: center;
+	color: #00008B;
+	font-family: Tahoma;
+	font-size: 16px;
+
+}
+#addarticle{
+	
+	
+	text-align: right;
+	vertical-align: top;
+	border: 0px;
+	
+	background-color: #E7E7E7;
+	
+	font-size: 14px;
+
+}

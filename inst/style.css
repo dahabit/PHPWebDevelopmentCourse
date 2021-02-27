@@ -1,0 +1,561 @@
+BODY {
+background-image: url(images/bg.gif);
+	background-color: #f5f5f5;
+	font-family: Arial,Tahoma,  "Times New Roman", sans-serif;
+	font-size:15pt ; 
+	text-align: center;
+	direction: rtl;
+ margin-top: 0px;
+
+
+ SCROLLBAR-FACE-COLOR: #df3701;
+SCROLLBAR-HIGHLIGHT-Color: #FFFFFF;
+SCROLLBAR-SHADOW-COLOR: #FFFFFF;
+SCROLLBAR-ARROW-COLOR: #000000;
+SCROLLBAR-BASE-COLOR: #000000;
+SCROLLBAR-3D-LIGHT-COLOR: #000000;
+
+}
+
+A {
+
+	color: #0000CD;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+A:HOVER {
+
+	color: White;	
+	
+	background: #0406FF;
+	background-color: #0406FF;
+}
+
+
+
+
+#copy{
+	page: center;
+font-size: 18px;
+	color: #FA5927;
+	font: bold;
+
+}
+
+#main_table{
+border: 1px;
+	border-style: inset;
+	border-color:#000000;
+background-color:#ededf0;
+margin-top: 0px;
+
+
+
+
+
+}
+
+#mainarea{
+	width: 180px;
+	text-align: center;
+	vertical-align: top;
+	height: 100%;
+	border: 1px;
+	border-style: dotted;
+	border-color:#F86739;
+	background-color: #ffffff;
+	padding-top:5px;
+	
+
+}
+
+#sites
+
+{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+}
+
+#cellall{
+
+	border: 1px;
+
+	border-style: dotted;
+
+	border-color:#8c6cff;
+
+	background-color: #FfffFF;
+
+		text-align: center;
+
+	color: #00008B;
+
+	font: bold;
+
+	font-family: Tahoma;
+
+	font-size: 12px;
+
+}
+
+#mainarea4{
+	width: 570 px;
+	text-align: right;
+	vertical-align: top;
+	height: 100%;
+	border: 1px;
+	border-style: dotted;
+	border-color:#F86739;
+	background-color: #F5F5F5;
+	padding-top:10px;
+	
+
+}
+}
+
+#mainarea1{
+	
+	font-size:10pt ;
+ width: 510px;
+	text-align: center;
+	vertical-align: top;
+	height: 100%;
+	border: 1px;
+	border-style: dotted;
+	border-color:#F86739;
+	background-color: #F0F7FF;
+	padding-top:10px;
+
+}
+	
+	
+#e3lanat{
+	width: 520px;
+	text-align: center;
+	vertical-align: top;
+	height:50px;
+	border: 1px;
+	border-style: dotted;
+	border-color:#000099;
+	background-color: #FfffFF;
+	padding-top:10px;
+	
+}
+
+#celle3lanat{
+		border: 1px;
+	border-style: dotted;
+	border-color:#000099;
+	background-color: #FfffFF;
+	
+}
+#cellnews{
+		border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+	
+}
+
+
+
+
+#cssnav {
+text-align: center; border-color: #FF4500; background-color: #FDC677;
+border-style: dotted;
+}
+
+#cssnav A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px;  COLOR: #000000; PADDING-TOP: 3px
+	
+	
+}
+#cssnav A.here {
+	BACKGROUND-COLOR: #F5F5F5
+	
+}
+#cssnav A:hover {
+	BACKGROUND-COLOR: #F5F5F5
+	
+	
+}
+
+#bbor{
+border-style: dotted;
+border-color: #0343bb ;
+border-bottom: 1px;
+border-top: 0px ;
+border-left: 0px;
+border-right: 0px;
+}
+#latsal{
+	border: 1px;
+	border-style:solid;
+	border-color: #0343bb ;
+	background-color: #f5f5f5;
+	border-top: 0px ;
+	vertical-align: top;
+padding: 5px;
+}
+#allpages
+{
+border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+	
+	vertical-align: top;
+padding: 15px;
+
+}
+	
+#headlatsal{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #f5f5f5;
+	border-bottom: 0px;
+	border-right: 0px ;
+	
+}
+
+#allcells{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+	
+	
+}
+#photo{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+border-right:0px;
+}
+
+#photocell{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+border-right:0px;
+}
+#leftarticle{
+	border: 1px;
+	border-style: dotted;
+	border-color:Navy;
+	background-color: #FfffFF;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 0px;
+	
+}
+#arttitle{
+	text-align: center;
+	color: #00008B;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+#artt{
+	text-align: right;
+	color: #00008B;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+
+#texetall{
+	text-align: right;
+	color: Red;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+
+#redtext{
+	text-align: center;
+	color: Red;
+	font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+#news{
+	text-align: right;
+	
+	font: bold;
+	font-family: Tahoma;
+	font-size: 13px;
+}
+#artbody{
+	text-align: justify;
+	color: #00008B;
+		font-family: tahoma;
+	font-size: 15 px;
+	padding: 5px;
+}
+#artbb{
+	text-align: justify;
+	color: #000000;
+		font-family: Tahoma;
+	font-size: 13px;
+
+}
+#artmore{
+	text-align: left;
+	color: #00008B;
+		font-family: Tahoma;
+	font-size: 11px;
+}
+
+
+#det_body{
+
+	width: 500px;
+
+text-align: center;
+
+	color: Navy;
+
+	size: 15px;
+
+}
+
+
+
+#det_body2{
+
+	width: 450px;
+
+text-align: center;
+
+	color: Navy;
+
+	size: 19px;
+
+	text-align: justify;
+
+	font: bold;
+
+}
+
+
+
+
+
+
+
+
+#error{
+
+	text-align: center;
+
+	background:#DFE9F9;
+
+	color: Red;
+
+	font-size: 16px;
+
+	font-style: italic;
+
+	font-family: Tahoma;
+
+}
+
+#arttext{
+
+
+
+text-align: right;
+
+	color: #00008B;
+
+		font-family: Tahoma;
+
+	font-size: 17px;
+
+
+
+
+
+}
+
+
+#catstbl{
+
+	
+
+	background-color: #FfffFF;
+
+		text-align: center;
+		font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+
+}
+
+
+
+#cellcatstbl{
+			font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+
+
+	background-color: #ECECEC;
+	text-align: center;
+}
+
+
+#branches{
+			font: bold;
+	font-family: Tahoma;
+	font-size: 12px;
+
+
+	background-color: #ECECEC;
+	text-align: right;
+	padding: 5px;
+}
+
+
+#des_cat{
+	font-family: Tahoma;
+	font-size: 9px;
+
+
+	color: Gray;
+	text-align: right;
+}
+
+#cat_name{
+	font: bold;
+	font-family: Tahoma;
+	font-size: 15px;
+
+
+	background-color: #ECECEC;
+	text-align: center;
+}
+
+
+
+#job_name{
+	font: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+
+
+	background-color: #ECECEC;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#lightbox{
+	position: absolute;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+	}
+
+#lightbox a img{ border: none; }
+
+#outerImageContainer{
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	}
+
+#imageContainer{
+	padding: 10px;
+	}
+
+#loading{
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+	}
+#hoverNav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	}
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{
+	width: 49%;
+	height: 100%;
+	background: transparent url(./images/blank.gif) no-repeat; /* Trick IE into showing hover */
+	display: block;
+	}
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(./images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(./images/nextlabel.gif) right 15% no-repeat; }
+
+
+#imageDataContainer{
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	overflow: auto;
+	width: 100%	
+	}
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em;	}	
+		
+#overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+	background-color: #000;
+	}

@@ -1,0 +1,17 @@
+@CHARSET "utf-8";
+
+#header{
+width:100%;
+}
+
+#main{
+float:left;	
+}
+
+#rightmenu {
+    float: right;
+    width: 236px;
+}
+#footer{
+width:100%;	
+}

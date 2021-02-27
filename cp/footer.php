@@ -1,0 +1,55 @@
+</div>
+            <div id="sidebar">
+  				<ul>
+                	<li><h3><a href="#" class="house">Dashboard</a></h3>
+                        <ul>
+                        	<li><a href="#" class="report">Sales Report</a></li>
+                    		<li><a href="#" class="report_seo">SEO Report</a></li>
+                            <li><a href="#" class="search">Search</a></li>
+                        </ul>
+                    </li>
+                    <li><h3><a href="#" class="folder_table">Orders</a></h3>
+          				<ul>
+                        	<li><a href="#" class="addorder">New order</a></li>
+                          <li><a href="#" class="shipping">Shipments</a></li>
+                            <li><a href="#" class="invoices">Invoices</a></li>
+                        </ul>
+                    </li>
+                    <li><h3><a href="#" class="manage">Manage</a></h3>
+          				<ul>
+                            <li><a href="#" class="manage_page">Pages</a></li>
+                            <li><a href="#" class="cart">Products</a></li>
+                            <li><a href="#" class="folder">Product categories</a></li>
+            				<li><a href="#" class="promotions">Promotions</a></li>
+                        </ul>
+                    </li>
+                  <li><h3><a href="#" class="user">Users</a></h3>
+          				<ul>
+                            <li><a href="#" class="useradd">Add user</a></li>
+                            <li><a href="#" class="group">User groups</a></li>
+            				<li><a href="#" class="search">Find user</a></li>
+                            <li><a href="#" class="online">Users online</a></li>
+                        </ul>
+                    </li>
+				</ul>       
+          </div>
+      </div>
+        <div id="footer">
+        <div id="credits">
+   		Template by <a href="http://www.bloganje.com">Bloganje</a>
+        </div>
+        <div id="styleswitcher">
+            <ul>
+                <li><a href="javascript: document.cookie='theme='; window.location.reload();" title="Default" id="defswitch">d</a></li>
+                <li><a href="javascript: document.cookie='theme=1'; window.location.reload();" title="Blue" id="blueswitch">b</a></li>
+                <li><a href="javascript: document.cookie='theme=2'; window.location.reload();" title="Green" id="greenswitch">g</a></li>
+                <li><a href="javascript: document.cookie='theme=3'; window.location.reload();" title="Brown" id="brownswitch">b</a></li>
+                <li><a href="javascript: document.cookie='theme=4'; window.location.reload();" title="Mix" id="mixswitch">m</a></li>
+                <li><a href="javascript: document.cookie='theme=5'; window.location.reload();" title="Mix" id="defswitch">m</a></li>
+            </ul>
+        </div><br />
+
+        </div>
+</div>
+</body>
+</html>

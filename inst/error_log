@@ -1,0 +1,366 @@
+[10-Jul-2007 02:47:35] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Jul-2007 02:47:35] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Jul-2007 02:47:35] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Jul-2007 02:47:35] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Jul-2007 02:47:35] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Jul-2007 02:47:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Jul-2007 02:47:35] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:12:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 2
+[10-Jul-2007 10:12:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 2
+[10-Jul-2007 10:12:07] PHP Warning:  main(online.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/dahabit/public_html/jci2/includes/menu.php on line 346
+[10-Jul-2007 10:12:07] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'online.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dahabit/public_html/jci2/includes/menu.php on line 346
+[10-Jul-2007 10:12:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 2
+[10-Jul-2007 10:12:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 2
+[10-Jul-2007 10:12:43] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:12:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:12:43] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:12:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:12:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:14:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:14:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:14:18] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:14:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:14:18] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:14:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:14:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:15:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/index.php on line 2
+[10-Jul-2007 10:15:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/index.php on line 2
+[10-Jul-2007 10:15:45] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:15:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:15:45] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:15:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:15:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:15:45] PHP Notice:  Query failed: Table 'dahabit_jci.news' doesn't exist SQL: SELECT   *  FROM news WHERE active=1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:15:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:27] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:27] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:24:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:27] PHP Notice:  Query failed: Table 'dahabit_jci.news' doesn't exist SQL: SELECT   *  FROM news WHERE active=1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/index.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:36] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:36] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:24:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:36] PHP Notice:  Query failed: Table 'dahabit_jci.news' doesn't exist SQL: SELECT   *  FROM news WHERE active=1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:24:38] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:24:38] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:24:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:24:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:27:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:27:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[10-Jul-2007 10:27:49] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:27:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:27:49] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:27:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:27:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:29:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:29:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:29:22] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:29:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:29:22] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 10:29:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 10:29:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 10:30:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:30:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:31:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 10:31:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:18:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:18:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:18:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:18:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:19:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:19:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/about.php:1) in /home/dahabit/public_html/jci2/includes/header.php on line 1
+[10-Jul-2007 11:21:02] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 11:21:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 11:21:02] PHP Notice:  Query failed: Table 'dahabit_jci.visits' doesn't exist SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 11:21:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Jul-2007 11:21:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Jul-2007 11:21:02] PHP Notice:  Query failed: Table 'dahabit_jci.news' doesn't exist SQL: SELECT   *  FROM news WHERE active=1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Jul-2007 11:21:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[15-Jul-2007 11:27:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/view_jobs.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Jul-2007 05:13:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Jul-2007 05:16:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Jul-2007 05:16:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Jul-2007 06:16:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Jul-2007 07:07:57] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[20-Aug-2007 12:47:29] PHP Notice:  Query failed: Table 'dahabit_jci.main_page' doesn't exist SQL: SELECT  * FROM  main_page  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[20-Aug-2007 12:47:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[20-Aug-2007 12:47:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[20-Aug-2007 12:47:29] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array in /home/dahabit/public_html/jci2/index.php on line 127
+[20-Aug-2007 23:54:04] PHP Notice:  Query failed: Table 'dahabit_jci.main_page' doesn't exist SQL: SELECT  * FROM  main_page  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[20-Aug-2007 23:54:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[20-Aug-2007 23:54:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[20-Aug-2007 23:54:04] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array in /home/dahabit/public_html/jci2/index.php on line 127
+[21-Aug-2007 02:23:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/c_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[22-Aug-2007 02:52:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/job_details.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[03-Oct-2007 16:03:05] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[03-Oct-2007 16:06:19] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[03-Oct-2007 16:06:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/dahabit/public_html/jci2/s_cp.php:2) in /home/dahabit/public_html/jci2/includes/header.php on line 3
+[29-Oct-2007 01:55:27] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[30-Oct-2007 02:59:56] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[30-Oct-2007 10:23:07] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[31-Oct-2007 02:16:10] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[31-Oct-2007 02:57:52] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[03-Nov-2007 00:32:54] PHP Warning:  Unknown(): Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively. in Unknown on line 0
+[13-Nov-2009 08:48:40] PHP Warning:  tempnam() [<a href='function.tempnam'>function.tempnam</a>]: open_basedir restriction in effect. File() is not within the allowed path(s): (/home:/tmp:/usr) in /home/dahabit/public_html/jci2/phpthumb.class.php on line 3150
+[10-Apr-2010 17:02:25] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SELECT   *  FROM news WHERE active=1 LIMIT 1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[10-Apr-2010 17:02:25] PHP Notice:  Query failed:  SQL: SELECT  * FROM  main_page  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[10-Apr-2010 17:02:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[10-Apr-2010 17:02:25] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array in /home/dahabit/public_html/jci2/index.php on line 127
+[12-Apr-2010 21:10:01] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SELECT   *  FROM news WHERE active=1 LIMIT 1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:10:01] PHP Notice:  Query failed:  SQL: SELECT  * FROM  main_page  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[12-Apr-2010 21:10:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:10:01] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array in /home/dahabit/public_html/jci2/index.php on line 127
+[12-Apr-2010 21:11:24] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:24] PHP Notice:  Query failed:  SQL: SELECT  * FROM  courses_cat  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:35] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SELECT   *  FROM jobs WHERE j_active=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[12-Apr-2010 21:11:35] PHP Notice:  Query failed:  SQL: SELECT   *  FROM jobs  WHERE  j_active=1 ORDER BY j_id DESC LIMIT  0,15 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[12-Apr-2010 21:11:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:40] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SELECT   *  FROM news WHERE active=1 LIMIT 1   in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:40] PHP Notice:  Query failed:  SQL: SELECT  * FROM  main_page  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[17-Apr-2010 02:30:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:40] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: First argument should be an array in /home/dahabit/public_html/jci2/index.php on line 127
+[17-Apr-2010 02:30:54] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SELECT   *  FROM photo  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:30:54] PHP Notice:  Query failed:  SQL: SELECT   *  FROM photo ORDER BY id LIMIT  0,12 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:30:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:33:21] PHP Notice:  Could not connect to server in /home/dahabit/public_html/jci2/mysql.php on line 25
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SET character_set_client=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SET character_set_connection=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SET character_set_database=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SET character_set_results=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SET character_set_server=utf8 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SELECT  visitnum  FROM visits WHERE id=1    in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 78
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SELECT   *  FROM photo  in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 56
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/dahabit/public_html/jci2/mysql.php on line 57
+[17-Apr-2010 02:33:21] PHP Notice:  Query failed:  SQL: SELECT   *  FROM photo ORDER BY id LIMIT  0,12 in /home/dahabit/public_html/jci2/mysql.php on line 58
+[17-Apr-2010 02:33:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dahabit/public_html/jci2/mysql.php on line 94

@@ -1,0 +1,324 @@
+@font-face {
+	font-family:data;
+	src: url(font/data.otf);
+}
+/* Basic  ---------------------------------------- */
+
+.clear { clear: both; }
+
+body {
+	background: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #646464;
+	text-align: center;
+}
+#wrapper {
+	text-align: right;
+	width: 930px;
+	margin: 0 auto;
+}
+
+/* Logo  ---------------------------------------- */
+
+h1 {
+	margin: 15px 5px 10px 0;
+	font:bold 50px data,Arial;
+	text-shadow:#555 2px 1px 1px;
+}
+
+h1 a {
+	display: block;
+}
+
+h1 span {  }
+
+/* Main Navigation ---------------------------------------- */
+
+#mainNav {
+	width: 918px;
+	height: 37px;
+	padding: 6px;
+	margin: 0 0 30px 0;
+	background: url(../img/top-menu-bg.gif) no-repeat right top; 
+	/* We used a background image making the thick border and the thin one to keep the html structure simple */
+}
+
+#mainNav li {
+	float: right;
+	height: 37px;
+	border-right: 1px solid #ddd;
+}
+
+#mainNav li a {
+	display: block;
+	float: right;
+	height: 37px;
+	line-height: 37px;
+	text-decoration: none;
+	color: #646464;
+	padding: 0 20px;
+}
+
+#mainNav li.logout {
+	float: left;
+	border-right: 1px solid #ddd;
+	border-left: none;
+}
+
+#mainNav li a:hover { background: #fdfcf6; }
+
+#mainNav li a.active, #mainNav li a.active {
+	background: #f0f0f0 url(../img/top-menu-item-bg.gif) repeat-x right top;
+	color: #454545;
+}
+
+/* Container ---------------------------------------- */
+
+#containerHolder {
+	background: #eee;
+	padding: 5px;
+}
+
+
+#container {
+	background: #fff url(../img/content.gif) repeat-y right top;
+	border: 1px solid #ddd;
+	width: 918px;
+}
+
+/* Sidebar ---------------------------------------- */
+
+#sidebar {
+	width: 200px;
+	float: right;
+}
+
+#sidebar .sideNav { width: 200px; }
+
+#sidebar .sideNav li { border-bottom: 1px solid #ddd; width: 200px; }
+
+#sidebar .sideNav li a {
+	display: block;
+	color: #646464;
+	background: #f6f6f6;
+	text-decoration: none;
+	height: 29px;
+	line-height: 29px;
+	padding: 0 19px;
+	width: 161px;
+}
+#sidebar .sideNav li.active {
+	display: block;
+	color: #646464;
+	background: #f6f6f6;
+	text-decoration: none;
+	height: 29px;
+	line-height: 29px;
+	padding: 0 10px 0 28px;
+	width: 161px;
+}
+
+#sidebar .sideNav li a:hover { background: #fdfcf6; }
+
+#sidebar .sideNav li a.active, #sidebar .sideNav li a.active:hover,#sidebar .sideNav li.active {
+	background: #f0f7fa;
+	color: #c66653;
+}
+
+/* Breadcrumb ---------------------------------------- */
+
+h2 {
+	width: 718px;
+	float: left;
+	color: #646464;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: bold;
+	margin: 20px 0 0 0;
+	padding: 0 0 10px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+h2 a {
+	color: #646464;
+	text-decoration: none;
+}
+
+h2 a.active { color: #c66653; }
+
+h2 a:hover { text-decoration: underline; }
+
+/* Content ---------------------------------------- */
+
+#main {
+	width: 679px;
+	float: left;
+	padding: 0 0 0 19px;
+}
+
+h3 {
+	font-size: 14px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #5494af;
+	padding: 0 10px 0 0;
+	margin: 20px 0 10px;
+}
+
+
+#main2 table {
+	border-top: 1px solid #ddd;
+	width: 679px;
+}
+
+#main2 table tr td {
+	background: #f6f6f6;
+	padding: 0px 20px;
+	height: 29px;
+	line-height: 29px;
+	border-bottom: 1px solid #ddd;
+	vertical-align:middle;
+}
+
+#main2 table tr.odd td {
+	background: #fbfbfb;
+}
+
+#main2 table tr:hover td { background: #fdfcf6; }
+
+#main2 table .action {
+	text-align: right;
+	padding: 0 10px 0 20px;
+}
+
+#main2 table tr .action a { margin: 0 10px 0 0; text-decoration: none; color: #9b9b9b; }
+#main2 table tr:hover .action .edit { color: #c5a059; }
+#main2 table tr:hover .action .delete { color: #a02b2b; }
+#main2 table tr:hover .action .view { color: #55a34a; }
+
+#main2 table tr:hover .action a:hover { text-decoration: underline; }
+
+
+#main fieldset {
+	border: 1px solid #ddd;
+	padding: 19px;
+	margin: 0 0 20px 0;
+	background: #fbfbfb;
+}
+
+#main fieldset p { margin: 0 0 14px 0; float: right; width: 100%;  }
+
+label {
+	display: block;
+	width: 100%;
+	margin: 0 0 7px 0;
+	line-height: 12px;
+}
+.label2 {
+	display: inline;
+}
+
+#main fieldset .text-long {
+	border: 1px solid #ddd;
+	background: #fff url(../img/input-shaddow.gif) no-repeat right top;
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #646464;
+	padding: 5px 7px;
+	width: 264px;
+	float: right;
+	margin: 0 0 0 10px;
+}
+
+#main fieldset .text-medium ,.text_medium {
+	border: 1px solid #ddd;
+	background: #fff url(../img/input-shaddow.gif) no-repeat right top;
+	font:14px Tahoma, Geneva, sans-serif;
+	color: #646464;
+	padding: 5px 7px;
+	width: 150px;
+	margin: 0 0 0 10px;
+}
+
+#main fieldset .text-long:focus, 
+#main fieldset .text-medium:focus,
+#main fieldset .text-small:focus,
+#main fieldset textarea:focus { background: #fdfcf6 url(../img/input-shaddow-hover.gif) no-repeat right top; }
+
+#main fieldset textarea {
+	border: 1px solid #ddd;
+	background: #fff url(../img/input-shaddow.gif) no-repeat right top;
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #646464;
+	padding: 5px 7px;
+	width: 364px;
+	float: right;
+	margin: 0 0 0 10px;
+	height: 148px;
+	overflow: hidden;
+}
+
+.button-submit {
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #646464;
+	width: 94px;
+	height: 29px;
+	cursor: pointer;
+	border: none;
+	background: url(../img/button-submit.gif) no-repeat right top;
+}
+
+/* Footer ---------------------------------------- */
+
+#footer {
+	width: 918px;
+	height: 37px;
+	padding: 6px;
+	margin: 30px 0 0 0;
+	text-align:center;
+	line-height:37px;
+	background: url(../img/top-menu-bg.gif) no-repeat right top; 
+}
+
+#footer a { color: #9B9B9B; }
+
+#footer a:hover { color:#c66653; }
+.error_strings {
+	height:30px;
+}
+.box {
+    -moz-border-radius:11px;
+    -widkit-border-radius:11px;
+    border-radius:11px;
+    -moz-box-shadow:0 4px 18px #C8C8C8;
+    background:#FFF;
+    border:1px solid #B7B7B7;
+    display:block;
+    margin:auto;
+    padding:10px 20px;
+    width:280px;
+}
+.cp {
+    clear:both;
+    color:#333;
+    font-size:18px;
+    height:26px;
+    padding-bottom:10px;
+}
+.cp img {
+    padding-left:0;
+    padding-left:8px;
+}
+hr {
+    color:#FFF;
+}
+.img_r {
+	max-width:500px;
+	border:1px solid #CCC;
+	padding:5px; 
+}
+.img_r2 {
+	max-width:100px;
+	height:50px;
+	padding:5px; 
+}
